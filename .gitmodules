@@ -1,0 +1,3 @@
+[submodule "AlcDisplay"]
+	path = AlcDisplay
+	url = https://github.com/MaBaTa/AlcDisplay.git
